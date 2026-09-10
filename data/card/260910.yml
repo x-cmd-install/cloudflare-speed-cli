@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.8"
   latestRelease: "v1.0.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:39:01Z
+  collectedAt: 2026-09-10T23:18:37Z
 timeline:
   created: 2025-12-26
   lastCommit: 2026-07-27
@@ -86,7 +86,7 @@ total:
   commit: 199
 ---
 path: /home/runner/.x-repo/github.com/kavehtehrani/cloudflare-speed-cli
-collectedAt: 2026-09-10T20:39:02Z
+collectedAt: 2026-09-10T23:18:39Z
 loc:
   Rust:
     code: 10513
