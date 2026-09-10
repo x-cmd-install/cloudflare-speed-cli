@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3033392,
       "digest": "sha256:d94386934ecbb056e60d82e4236b2a082012654f5ca10f51943e2fafd6559aed",
-      "download_count": 289,
+      "download_count": 293,
       "created_at": "2026-07-27T17:31:43Z",
       "updated_at": "2026-07-27T17:31:44Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 122,
       "digest": "sha256:59e6771249b082359a2ba7175bca6434141bc3208511a581a77cef2930a1a803",
-      "download_count": 146,
+      "download_count": 150,
       "created_at": "2026-07-27T17:31:43Z",
       "updated_at": "2026-07-27T17:31:44Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4122767,
       "digest": "sha256:2830fd4c44cca0d47e024ff93a5883e5738df08ea643d50b6588cadaa8596ccc",
-      "download_count": 186,
+      "download_count": 187,
       "created_at": "2026-07-27T17:31:44Z",
       "updated_at": "2026-07-27T17:31:44Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3338220,
       "digest": "sha256:dfdbd87ad9354300d45b4f531da5e27139059fde6a38ec4fdc72f9ab71d065b6",
-      "download_count": 1625,
+      "download_count": 1648,
       "created_at": "2026-07-27T17:31:44Z",
       "updated_at": "2026-07-27T17:31:45Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": "sha256:6ed5b6f2af95a0630a14a9e3410e7bea7ec2c44fa969ace0aede2d6953f0a657",
-      "download_count": 868,
+      "download_count": 882,
       "created_at": "2026-07-27T17:31:44Z",
       "updated_at": "2026-07-27T17:31:44Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256"
