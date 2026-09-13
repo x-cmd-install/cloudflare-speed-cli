@@ -47,12 +47,12 @@ Total: **10,797** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 2 | 4 | 0 | 0 | 0 | 10 |
-| 90d | 2026-06-14 | 3 | 7 | 0 | 0 | 0 | 15 |
-| last180d | 2026-03-16 | 18 | 15 | 0 | 10 | 0 | 64 |
-| 360d | 2025-09-17 | 36 | 21 | 0 | 29 | 0 | 175 |
-| last720d | 2024-09-22 | 36 | 21 | 0 | 29 | 0 | 199 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 2 | 4 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-15 | 3 | 6 | 0 | 0 | 0 | 12 |
+| last180d | 2026-03-17 | 18 | 15 | 0 | 10 | 0 | 64 |
+| 360d | 2025-09-18 | 36 | 21 | 0 | 29 | 0 | 175 |
+| last720d | 2024-09-23 | 36 | 21 | 0 | 29 | 0 | 199 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for cloudflare-speed-cli lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:11:51Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:27:08Z._
