@@ -4,7 +4,7 @@
 
 CLI for internet speed test via cloudflare
 
-![cloudflare-speed-cli](https://repo.x-cmd.io/cloudflare-speed-cli.svg?lang=zh)
+[![x-cmd/install — cloudflare-speed-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cloudflare-speed-cli.svg?lang=zh)](https://x-cmd.com/install/cloudflare-speed-cli)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install cloudflare-speed-cli
 
 ## 流行度
 
-- **Star**: 1,039 · **Fork**: 63 · **开放 issue**: 29 · **贡献者**: 14
+- **Star**: 1,041 · **Fork**: 63 · **开放 issue**: 29 · **贡献者**: 14
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cloudflare-speed-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 4 | 0 | 0 | 0 | 7 |
-| 90d | 2026-06-20 | 2 | 6 | 0 | 0 | 0 | 12 |
-| last180d | 2026-03-22 | 18 | 15 | 0 | 9 | 0 | 64 |
-| 360d | 2025-09-23 | 36 | 21 | 0 | 29 | 0 | 175 |
-| last720d | 2024-09-28 | 36 | 21 | 0 | 29 | 0 | 199 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 4 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 6 | 0 | 0 | 0 | 12 |
+| last180d | 2026-03-24 | 18 | 15 | 0 | 9 | 0 | 64 |
+| 360d | 2025-09-25 | 36 | 21 | 0 | 29 | 0 | 175 |
+| last720d | 2024-09-30 | 36 | 21 | 0 | 29 | 0 | 199 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ cloudflare-speed-cli 的安装元数据由 [x-cmd/install](https://github.com/x-
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:45:13Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:31:46Z._
