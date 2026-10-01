@@ -41,18 +41,18 @@ Total: **10,797** lines of code across **38** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 0 · **Commits**: 199
+- **Releases**: 36 · **Merged PRs**: 21 · **Open PRs**: 1 · **Closed issues**: 29 · **Open issues**: 0 · **Commits**: 199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 2 | 4 | 0 | 0 | 0 | 10 |
-| last180d | 2026-04-03 | 18 | 15 | 0 | 8 | 0 | 62 |
-| 360d | 2025-10-05 | 36 | 21 | 0 | 29 | 0 | 175 |
-| last720d | 2024-10-10 | 36 | 21 | 0 | 29 | 0 | 199 |
+| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 2 | 4 | 1 | 0 | 0 | 10 |
+| last180d | 2026-04-04 | 17 | 15 | 1 | 8 | 0 | 62 |
+| 360d | 2025-10-06 | 36 | 21 | 1 | 29 | 0 | 175 |
+| last720d | 2024-10-11 | 36 | 21 | 1 | 29 | 0 | 199 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for cloudflare-speed-cli lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:04:37Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:35:57Z._
