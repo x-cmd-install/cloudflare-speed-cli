@@ -14,11 +14,11 @@ x install cloudflare-speed-cli
 
 ## Code insight
 
-Total: **10,797** lines of code across **38** files in the top 5 languages.
+Total: **10,877** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,513 | 622 | 1,138 | 33 |
+| Rust | 10,593 | 628 | 1,151 | 33 |
 | Svg | 73 | 0 | 0 | 1 |
 | Toml | 70 | 11 | 9 | 2 |
 | Sh | 65 | 3 | 16 | 1 |
@@ -31,47 +31,47 @@ Total: **10,797** lines of code across **38** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.8` (2026-07-27)
-- **Last commit**: 2026-07-27
+- **Latest**: `v1.0.9` (2026-10-02)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,050 · **Forks**: 63 · **Open issues**: 29 · **Contributors**: 14
+- **Stars**: 1,051 · **Forks**: 63 · **Open issues**: 29 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 21 · **Open PRs**: 1 · **Closed issues**: 29 · **Open issues**: 0 · **Commits**: 199
+- **Releases**: 37 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 0 · **Commits**: 202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 2 | 4 | 1 | 0 | 0 | 10 |
-| last180d | 2026-04-04 | 17 | 15 | 1 | 8 | 0 | 62 |
-| 360d | 2025-10-06 | 36 | 21 | 1 | 29 | 0 | 175 |
-| last720d | 2024-10-11 | 36 | 21 | 1 | 29 | 0 | 199 |
+| 30d | 2026-09-02 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-03 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-04 | 3 | 5 | 0 | 0 | 0 | 12 |
+| last180d | 2026-04-05 | 18 | 16 | 0 | 8 | 0 | 64 |
+| 360d | 2025-10-07 | 37 | 22 | 0 | 29 | 0 | 177 |
+| last720d | 2024-10-12 | 37 | 22 | 0 | 29 | 0 | 202 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz) | 2.7 MiB | `native/darwin/arm64` |
-| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256) | 116 B | `native/darwin/arm64` |
-| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz) | 2.9 MiB | `native/linux/arm64/musl` |
-| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256) | 122 B | `native/linux/arm64/musl` |
-| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/x64` |
-| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256) | 115 B | `native/darwin/x64` |
-| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip) | 3.9 MiB | `native/win/x64` |
-| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256) | 115 B | `native/win/x64` |
-| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz) | 3.2 MiB | `native/linux/x64/musl` |
-| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256) | 121 B | `native/linux/x64/musl` |
-| [dist-manifest.json](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/dist-manifest.json) | 20.4 KiB | `other` |
-| [sha256.sum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/sha256.sum) | 665 B | `other` |
-| [source.tar.gz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/source.tar.gz) | 695.6 KiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.8/source.tar.gz.sha256) | 81 B | `other` |
+| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz) | 2.6 MiB | `native/darwin/arm64` |
+| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256) | 116 B | `native/darwin/arm64` |
+| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz) | 2.9 MiB | `native/linux/arm64/musl` |
+| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256) | 122 B | `native/linux/arm64/musl` |
+| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/x64` |
+| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256) | 115 B | `native/darwin/x64` |
+| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip) | 3.9 MiB | `native/win/x64` |
+| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256) | 115 B | `native/win/x64` |
+| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz) | 3.2 MiB | `native/linux/x64/musl` |
+| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256) | 121 B | `native/linux/x64/musl` |
+| [dist-manifest.json](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/dist-manifest.json) | 20.4 KiB | `other` |
+| [sha256.sum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/sha256.sum) | 665 B | `other` |
+| [source.tar.gz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/source.tar.gz) | 696.9 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.9/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for cloudflare-speed-cli lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:35:57Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:03:52Z._
