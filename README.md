@@ -14,11 +14,11 @@ x install cloudflare-speed-cli
 
 ## Code insight
 
-Total: **10,877** lines of code across **38** files in the top 5 languages.
+Total: **10,945** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,593 | 628 | 1,151 | 33 |
+| Rust | 10,661 | 621 | 1,158 | 33 |
 | Svg | 73 | 0 | 0 | 1 |
 | Toml | 70 | 11 | 9 | 2 |
 | Sh | 65 | 3 | 16 | 1 |
@@ -32,27 +32,27 @@ Total: **10,877** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.9` (2026-10-02)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-16
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,058 · **Forks**: 63 · **Open issues**: 29 · **Contributors**: 14
+- **Stars**: 1,058 · **Forks**: 63 · **Open issues**: 30 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 0 · **Commits**: 203
+- **Releases**: 37 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 1 · **Commits**: 204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 1 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-16 | 1 | 1 | 0 | 0 | 0 | 3 |
-| 90d | 2026-07-17 | 2 | 5 | 0 | 0 | 0 | 10 |
-| last180d | 2026-04-18 | 18 | 16 | 0 | 8 | 0 | 65 |
-| 360d | 2025-10-20 | 37 | 22 | 0 | 29 | 0 | 178 |
-| last720d | 2024-10-25 | 37 | 22 | 0 | 29 | 0 | 203 |
+| 30d | 2026-09-16 | 1 | 1 | 0 | 0 | 1 | 4 |
+| last60d | 2026-08-17 | 1 | 1 | 0 | 0 | 1 | 4 |
+| 90d | 2026-07-18 | 2 | 5 | 0 | 0 | 1 | 11 |
+| last180d | 2026-04-19 | 18 | 16 | 0 | 8 | 1 | 66 |
+| 360d | 2025-10-21 | 37 | 22 | 0 | 29 | 1 | 179 |
+| last720d | 2024-10-26 | 37 | 22 | 0 | 29 | 1 | 204 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for cloudflare-speed-cli lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:07:51Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:04:18Z._
