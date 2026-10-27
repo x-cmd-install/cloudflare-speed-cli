@@ -3,8 +3,8 @@
   srcname: cloudflare-speed-cli
   binname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
-  version: 1.0.10
-  origversion: 1.0.10-1
+  version: 1.0.11
+  origversion: 1.0.11-1
   status: newest
   summary: CLI for internet speed test via Cloudflare
   licenses:
@@ -15,7 +15,7 @@
   visiblename: net/cloudflare-speed-cli
   version: 1.0.10
   origversion: null
-  status: newest
+  status: outdated
   summary: Third-party CLI tool for Cloudflare Speed Test service
   maintainers:
     - meta@freebsd.org
@@ -24,7 +24,7 @@
 - repo: homebrew
   srcname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
-  version: 1.0.10
+  version: 1.0.11
   origversion: null
   status: newest
   summary: Cloudflare-based speed test with optional TUI
@@ -41,7 +41,7 @@
   visiblename: cloudflare-speed-cli
   version: 1.0.10
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI internet speed test via Cloudflare's speed test service
   maintainers:
     - snerpton@github
@@ -78,7 +78,7 @@
   visiblename: cloudflare-speed-cli
   version: 1.0.10
   origversion: 1.0.10-1
-  status: newest
+  status: outdated
   summary: CLI for internet speed test via Cloudflare
   licenses:
     - GPL-3.0-only
@@ -87,7 +87,7 @@
   visiblename: cloudflare-speed-cli
   version: 1.0.10
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI for internet speed test via cloudflare
   maintainers:
     - maintainer@zic.email
@@ -100,7 +100,7 @@
   visiblename: cloudflare-speed-cli
   version: 1.0.10
   origversion: 1.0.10-1
-  status: newest
+  status: outdated
   summary: CLI for internet speed test via Cloudflare
   licenses:
     - GPL-3.0-only
@@ -108,7 +108,7 @@
   subrepo: extras
   binname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
-  version: 1.0.10
+  version: 1.0.11
   origversion: null
   status: newest
   licenses:
@@ -119,7 +119,7 @@
   visiblename: cloudflare-speed-cli
   version: 1.0.10
   origversion: 1.0.10-1.fcrawhide
-  status: newest
+  status: outdated
   summary: CLI for internet speed test via cloudflare
   licenses:
     - GPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND (BSD-3-Clause AND MIT) AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND BSL-1.0 AND CDLA-Permissive-2.0 AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR BSD-3-Clause) AND (MIT OR Zlib OR Apache-2.0) AND MIT AND MPL-2.0 AND (Unlicense OR MIT) AND (Zlib OR Apache-2.0 OR MIT) AND Zlib
@@ -131,7 +131,7 @@
   visiblename: cloudflare-speed-cli
   version: 1.0.10
   origversion: 1.0.10-1.fcrawhide
-  status: newest
+  status: outdated
   summary: CLI for internet speed test via cloudflare
   licenses:
     - GPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND (BSD-3-Clause AND MIT) AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT) AND BSD-3-Clause AND BSL-1.0 AND CDLA-Permissive-2.0 AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR BSD-3-Clause) AND (MIT OR Zlib OR Apache-2.0) AND MIT AND MPL-2.0 AND (Unlicense OR MIT) AND (Zlib OR Apache-2.0 OR MIT) AND Zlib
