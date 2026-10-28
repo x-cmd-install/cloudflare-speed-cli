@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: cloudflare-speed-cli
+  binname: cloudflare-speed-cli
+  visiblename: cloudflare-speed-cli
+  version: 1.0.10
+  origversion: 1.0.10-1
+  status: outdated
+  summary: CLI for internet speed test via Cloudflare
+  licenses:
+    - GPL-3.0-only
 - repo: arch
   subrepo: extra
   srcname: cloudflare-speed-cli
@@ -13,9 +24,9 @@
   srcname: net/cloudflare-speed-cli
   binname: cloudflare-speed-cli
   visiblename: net/cloudflare-speed-cli
-  version: 1.0.10
+  version: 1.0.11
   origversion: null
-  status: outdated
+  status: newest
   summary: Third-party CLI tool for Cloudflare Speed Test service
   maintainers:
     - meta@freebsd.org
@@ -71,17 +82,6 @@
   summary: CLI for internet speed test via Cloudflare
   licenses:
     - GPL-3.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: cloudflare-speed-cli
-  binname: cloudflare-speed-cli
-  visiblename: cloudflare-speed-cli
-  version: 1.0.10
-  origversion: 1.0.10-1
-  status: outdated
-  summary: CLI for internet speed test via Cloudflare
-  licenses:
-    - GPL-3.0-only
 - repo: nix_unstable
   srcname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
@@ -98,9 +98,9 @@
   srcname: cloudflare-speed-cli
   binname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
-  version: 1.0.10
-  origversion: 1.0.10-1
-  status: outdated
+  version: 1.0.11
+  origversion: 1.0.11-1
+  status: newest
   summary: CLI for internet speed test via Cloudflare
   licenses:
     - GPL-3.0-only

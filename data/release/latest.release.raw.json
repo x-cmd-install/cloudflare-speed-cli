@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2706988,
       "digest": "sha256:9a075b44e434d5cd1ed618f0dabb47fafe4243b82f058eacc3e41fda19cbb895",
-      "download_count": 11,
+      "download_count": 28,
       "created_at": "2026-10-26T11:05:17Z",
       "updated_at": "2026-10-26T11:05:17Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:10ebe500a53db88b21640982073a1e56f3d01b6de14c3c25913024a90a2c485e",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-26T11:05:17Z",
       "updated_at": "2026-10-26T11:05:17Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3029348,
       "digest": "sha256:3a711f4d45e6e1143c5774d0eff10a6a0dbd1847a2d57dc2cc5a711cc7772aa2",
-      "download_count": 25,
+      "download_count": 45,
       "created_at": "2026-10-26T11:05:17Z",
       "updated_at": "2026-10-26T11:05:17Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 122,
       "digest": "sha256:25c40ec90c161ead22454253a814c61771e11ee0614e7952324179fec557e2f5",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-10-26T11:05:17Z",
       "updated_at": "2026-10-26T11:05:17Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2965224,
       "digest": "sha256:9c1f45fbb7a0ef74aa82abe21e77233a5e7da523c2aa8dc3dbbde1abfb2de022",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-26T11:05:17Z",
       "updated_at": "2026-10-26T11:05:17Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:d9f96a3688c3444c1796f4be4ad0484ce49a831543babd4e95b28a6ab91e845c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:18Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4140625,
       "digest": "sha256:a750019581366346ac4591632ef97131371a71942709cf4f156f4897aef7f8ee",
-      "download_count": 27,
+      "download_count": 43,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:18Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:f59c542aec07927497ebba428c949aab24825d2ba7922fc848b191a0048d88e9",
-      "download_count": 27,
+      "download_count": 30,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:18Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3335288,
       "digest": "sha256:6622cb5296b79dc51a009292bbe72bc04dd4c4ad6e0fbd7260388e5e2f3b8a7f",
-      "download_count": 40,
+      "download_count": 97,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:18Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": "sha256:1d9d0fdaebd1cd95b679b62a6a3c724870c70b1cad8c56c11398a33570b73eaf",
-      "download_count": 12,
+      "download_count": 40,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:18Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 20893,
       "digest": "sha256:440a1f170e0209b542230d1163f4cbbf3004eac725acafdd06e98f54b2d8a9ac",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:18Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/dist-manifest.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 665,
       "digest": "sha256:994b833cd56e5636652eff17c18a989b9c62705e2706b8323629beeed2c4d142",
-      "download_count": 22,
+      "download_count": 38,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:19Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/sha256.sum"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 716291,
       "digest": "sha256:10c6dd10e050ffe65d186500b794037cea7855f5f0b4606401140a7b96d69760",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T11:05:18Z",
       "updated_at": "2026-10-26T11:05:19Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/source.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:414a923864253ea0f7b798bf6559a8d4130df12f1344ce47188ed934f2b3efed",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T11:05:19Z",
       "updated_at": "2026-10-26T11:05:19Z",
       "browser_download_url": "https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/source.tar.gz.sha256"
@@ -543,5 +543,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/kavehtehrani/cloudflare-speed-cli/tarball/v1.0.11",
   "zipball_url": "https://api.github.com/repos/kavehtehrani/cloudflare-speed-cli/zipball/v1.0.11",
-  "body": "## Download cloudflare-speed-cli 1.0.11\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256) |\n| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256) |\n| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256) |\n| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n\n"
+  "body": "## Download cloudflare-speed-cli 1.0.11\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256) |\n| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256) |\n| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256) |\n| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/kavehtehrani/cloudflare-speed-cli/releases/424145895/reactions",
+    "total_count": 2,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
