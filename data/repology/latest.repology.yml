@@ -49,28 +49,6 @@
     - GPL-3
   categories:
     - net
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: cloudflare-speed-cli
-  binname: cloudflare-speed-cli
-  visiblename: cloudflare-speed-cli
-  version: 1.0.8
-  origversion: 1.0.8-1
-  status: outdated
-  summary: CLI for internet speed test via Cloudflare
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: cloudflare-speed-cli
-  binname: cloudflare-speed-cli
-  visiblename: cloudflare-speed-cli
-  version: 1.0.9
-  origversion: 1.0.9-1
-  status: outdated
-  summary: CLI for internet speed test via Cloudflare
-  licenses:
-    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: cloudflare-speed-cli
