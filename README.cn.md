@@ -14,13 +14,13 @@ x install cloudflare-speed-cli
 
 ## 代码洞察
 
-合计: **11,111** 行代码（覆盖前 5 种语言、共 **38** 个文件）。
+合计: **11,116** 行代码（覆盖前 5 种语言、共 **38** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 10,827 | 622 | 1,161 | 33 |
+| Rust | 10,831 | 621 | 1,161 | 33 |
 | Svg | 73 | 0 | 0 | 1 |
-| Toml | 70 | 11 | 9 | 2 |
+| Toml | 71 | 11 | 9 | 2 |
 | Sh | 65 | 3 | 16 | 1 |
 | Nix | 62 | 2 | 7 | 1 |
 
@@ -31,57 +31,57 @@ x install cloudflare-speed-cli
 
 ## 发布
 
-- **最新版本**: `v1.0.11` (2026-10-26)
-- **最近提交**: 2026-10-26
+- **最新版本**: `v1.0.12` (2026-11-03)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 1,086 · **Fork**: 65 · **开放 issue**: 30 · **贡献者**: 16
+- **Star**: 1,087 · **Fork**: 65 · **开放 issue**: 30 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 23 · **开放 PR**: 2 · **已关闭 issue**: 30 · **开放 issue**: 0 · **提交数**: 208
+- **发布数**: 40 · **已合并 PR**: 25 · **开放 PR**: 0 · **已关闭 issue**: 30 · **开放 issue**: 0 · **提交数**: 213
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 1 | 2 | 1 | 0 | 4 |
-| last60d | 2026-09-04 | 3 | 2 | 2 | 1 | 0 | 7 |
-| 90d | 2026-08-05 | 3 | 2 | 2 | 1 | 0 | 7 |
-| last180d | 2026-05-07 | 18 | 17 | 2 | 6 | 0 | 62 |
-| 360d | 2025-11-08 | 39 | 23 | 2 | 30 | 0 | 182 |
-| last720d | 2024-11-13 | 39 | 23 | 2 | 30 | 0 | 208 |
+| 30d | 2026-10-05 | 3 | 3 | 0 | 1 | 0 | 7 |
+| last60d | 2026-09-05 | 4 | 4 | 0 | 1 | 0 | 10 |
+| 90d | 2026-08-06 | 4 | 4 | 0 | 1 | 0 | 10 |
+| last180d | 2026-05-08 | 19 | 19 | 0 | 6 | 0 | 65 |
+| 360d | 2025-11-09 | 40 | 25 | 0 | 30 | 0 | 185 |
+| last720d | 2024-11-14 | 40 | 25 | 0 | 30 | 0 | 213 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz) | 2.6 MiB | `native/darwin/arm64` |
-| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256) | 116 B | `native/darwin/arm64` |
-| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz) | 2.9 MiB | `native/linux/arm64/musl` |
-| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256) | 122 B | `native/linux/arm64/musl` |
-| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/x64` |
-| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256) | 115 B | `native/darwin/x64` |
-| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip) | 3.9 MiB | `native/win/x64` |
-| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256) | 115 B | `native/win/x64` |
-| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz) | 3.2 MiB | `native/linux/x64/musl` |
-| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256) | 121 B | `native/linux/x64/musl` |
-| [dist-manifest.json](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/dist-manifest.json) | 20.4 KiB | `other` |
-| [sha256.sum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/sha256.sum) | 665 B | `other` |
-| [source.tar.gz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/source.tar.gz) | 699.5 KiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.11/source.tar.gz.sha256) | 81 B | `other` |
+| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz) | 2.6 MiB | `native/darwin/arm64` |
+| [cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-aarch64-apple-darwin.tar.xz.sha256) | 116 B | `native/darwin/arm64` |
+| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz) | 2.9 MiB | `native/linux/arm64/musl` |
+| [cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-aarch64-unknown-linux-musl.tar.xz.sha256) | 122 B | `native/linux/arm64/musl` |
+| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/x64` |
+| [cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-x86_64-apple-darwin.tar.xz.sha256) | 115 B | `native/darwin/x64` |
+| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip) | 3.9 MiB | `native/win/x64` |
+| [cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-x86_64-pc-windows-msvc.zip.sha256) | 115 B | `native/win/x64` |
+| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz) | 3.2 MiB | `native/linux/x64/musl` |
+| [cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/cloudflare-speed-cli-x86_64-unknown-linux-musl.tar.xz.sha256) | 121 B | `native/linux/x64/musl` |
+| [dist-manifest.json](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/dist-manifest.json) | 20.4 KiB | `other` |
+| [sha256.sum](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/sha256.sum) | 665 B | `other` |
+| [source.tar.gz](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/source.tar.gz) | 699.2 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/kavehtehrani/cloudflare-speed-cli/releases/download/v1.0.12/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cloudflare-speed-cli) 上共有 **12** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cloudflare-speed-cli) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.0.11` | ✅ latest |
-| Homebrew | `1.0.11` | ✅ latest |
-| Nix unstable | `1.0.11` | ✅ latest |
+| Arch | `1.0.11` | ⚠️ outdated |
+| Homebrew | `1.0.12` | ✅ latest |
+| Nix unstable | `1.0.11` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -92,4 +92,4 @@ cloudflare-speed-cli 的安装元数据由 [x-cmd/install](https://github.com/x-
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:44:56Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:56:04Z._
