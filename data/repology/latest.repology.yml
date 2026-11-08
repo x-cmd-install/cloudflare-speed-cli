@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: cloudflare-speed-cli
+  visiblename: cloudflare-speed-cli
+  version: 1.0.12
+  origversion: null
+  status: newest
+  summary: Cloudflare-based speed test with optional TUI
+- repo: homebrew
+  srcname: cloudflare-speed-cli
+  visiblename: cloudflare-speed-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cloudflare-based speed test with optional TUI
 - repo: arch
   subrepo: extra
   srcname: cloudflare-speed-cli
@@ -21,20 +35,6 @@
     - meta@freebsd.org
   categories:
     - net
-- repo: homebrew
-  srcname: cloudflare-speed-cli
-  visiblename: cloudflare-speed-cli
-  version: 1.0.12
-  origversion: null
-  status: newest
-  summary: Cloudflare-based speed test with optional TUI
-- repo: homebrew
-  srcname: cloudflare-speed-cli
-  visiblename: cloudflare-speed-cli
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Cloudflare-based speed test with optional TUI
 - repo: macports
   srcname: net/cloudflare-speed-cli
   binname: cloudflare-speed-cli
@@ -76,9 +76,9 @@
   srcname: cloudflare-speed-cli
   binname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
-  version: 1.0.11
-  origversion: 1.0.11-1
-  status: outdated
+  version: 1.0.12
+  origversion: 1.0.12-1
+  status: newest
   summary: CLI for internet speed test via Cloudflare
   licenses:
     - GPL-3.0-only
@@ -108,9 +108,9 @@
   srcname: net/cloudflare-speed-cli
   binname: cloudflare-speed-cli
   visiblename: net/cloudflare-speed-cli
-  version: 1.0.11
+  version: 1.0.12
   origversion: null
-  status: outdated
+  status: newest
   summary: Network speed test tool using Cloudflare's speed test service
   maintainers:
     - bartosz.kuzma@gmail.com
