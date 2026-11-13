@@ -37,7 +37,7 @@ x install cloudflare-speed-cli
 
 ## 流行度
 
-- **Star**: 1,095 · **Fork**: 65 · **开放 issue**: 30 · **贡献者**: 17
+- **Star**: 1,096 · **Fork**: 65 · **开放 issue**: 30 · **贡献者**: 17
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cloudflare-speed-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 3 | 0 | 1 | 0 | 7 |
-| last60d | 2026-09-13 | 4 | 4 | 0 | 1 | 0 | 10 |
-| 90d | 2026-08-14 | 4 | 4 | 0 | 1 | 0 | 10 |
-| last180d | 2026-05-16 | 16 | 17 | 0 | 4 | 0 | 50 |
-| 360d | 2025-11-17 | 40 | 25 | 0 | 30 | 0 | 185 |
-| last720d | 2024-11-22 | 40 | 25 | 0 | 30 | 0 | 213 |
+| 30d | 2026-10-14 | 3 | 3 | 0 | 1 | 0 | 7 |
+| last60d | 2026-09-14 | 4 | 4 | 0 | 1 | 0 | 10 |
+| 90d | 2026-08-15 | 4 | 4 | 0 | 1 | 0 | 10 |
+| last180d | 2026-05-17 | 16 | 17 | 0 | 4 | 0 | 50 |
+| 360d | 2025-11-18 | 40 | 25 | 0 | 30 | 0 | 185 |
+| last720d | 2024-11-23 | 40 | 25 | 0 | 30 | 0 | 213 |
 
 ## Release 资产
 
@@ -75,13 +75,13 @@ x install cloudflare-speed-cli
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cloudflare-speed-cli) 上共有 **14** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cloudflare-speed-cli) 上共有 **14** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.0.12` | ✅ latest |
 | Homebrew | `1.0.12` | ✅ latest |
-| Nix unstable | `1.0.11` | ⚠️ outdated |
+| Nix unstable | `1.0.12` | ✅ latest |
 
 ## 改进这些数据
 
@@ -92,4 +92,4 @@ cloudflare-speed-cli 的安装元数据由 [x-cmd/install](https://github.com/x-
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T08:01:47Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T07:24:51Z._

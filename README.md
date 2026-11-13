@@ -37,7 +37,7 @@ Total: **11,116** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,095 · **Forks**: 65 · **Open issues**: 30 · **Contributors**: 17
+- **Stars**: 1,096 · **Forks**: 65 · **Open issues**: 30 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **11,116** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 3 | 0 | 1 | 0 | 7 |
-| last60d | 2026-09-13 | 4 | 4 | 0 | 1 | 0 | 10 |
-| 90d | 2026-08-14 | 4 | 4 | 0 | 1 | 0 | 10 |
-| last180d | 2026-05-16 | 16 | 17 | 0 | 4 | 0 | 50 |
-| 360d | 2025-11-17 | 40 | 25 | 0 | 30 | 0 | 185 |
-| last720d | 2024-11-22 | 40 | 25 | 0 | 30 | 0 | 213 |
+| 30d | 2026-10-14 | 3 | 3 | 0 | 1 | 0 | 7 |
+| last60d | 2026-09-14 | 4 | 4 | 0 | 1 | 0 | 10 |
+| 90d | 2026-08-15 | 4 | 4 | 0 | 1 | 0 | 10 |
+| last180d | 2026-05-17 | 16 | 17 | 0 | 4 | 0 | 50 |
+| 360d | 2025-11-18 | 40 | 25 | 0 | 30 | 0 | 185 |
+| last720d | 2024-11-23 | 40 | 25 | 0 | 30 | 0 | 213 |
 
 ## Release assets
 
@@ -75,13 +75,13 @@ Total: **11,116** lines of code across **38** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/cloudflare-speed-cli). **10** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/cloudflare-speed-cli). **11** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.0.12` | ✅ latest |
 | Homebrew | `1.0.12` | ✅ latest |
-| Nix unstable | `1.0.11` | ⚠️ outdated |
+| Nix unstable | `1.0.12` | ✅ latest |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for cloudflare-speed-cli lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:01:47Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:24:51Z._
