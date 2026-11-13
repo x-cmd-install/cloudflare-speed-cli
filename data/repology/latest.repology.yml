@@ -85,9 +85,9 @@
 - repo: nix_unstable
   srcname: cloudflare-speed-cli
   visiblename: cloudflare-speed-cli
-  version: 1.0.11
+  version: 1.0.12
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI for internet speed test via cloudflare
   maintainers:
     - maintainer@zic.email
