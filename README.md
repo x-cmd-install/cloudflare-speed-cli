@@ -37,7 +37,7 @@ Total: **11,116** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,098 · **Forks**: 65 · **Open issues**: 30 · **Contributors**: 17
+- **Stars**: 1,100 · **Forks**: 65 · **Open issues**: 30 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **11,116** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 3 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-20 | 4 | 4 | 0 | 1 | 0 | 10 |
-| 90d | 2026-08-21 | 4 | 4 | 0 | 1 | 0 | 10 |
-| last180d | 2026-05-23 | 14 | 16 | 0 | 3 | 0 | 40 |
-| 360d | 2025-11-24 | 40 | 25 | 0 | 30 | 0 | 185 |
-| last720d | 2024-11-29 | 40 | 25 | 0 | 30 | 0 | 213 |
+| 30d | 2026-10-21 | 2 | 3 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-21 | 4 | 4 | 0 | 1 | 0 | 10 |
+| 90d | 2026-08-22 | 4 | 4 | 0 | 1 | 0 | 10 |
+| last180d | 2026-05-24 | 13 | 16 | 0 | 3 | 0 | 40 |
+| 360d | 2025-11-25 | 40 | 25 | 0 | 30 | 0 | 185 |
+| last720d | 2024-11-30 | 40 | 25 | 0 | 30 | 0 | 213 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for cloudflare-speed-cli lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:53:49Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:07:15Z._
